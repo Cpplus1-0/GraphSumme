@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590838385 source:c:\users\naimul hp spectre\onedrive\documents\c++ projects\graphsumme\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<cmath>
+
